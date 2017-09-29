@@ -9,8 +9,13 @@ baseurl: '/Landing' #change it according to your repository name
 yourname: Igor Ershov  ## put your name
 title: 'SOFTWARE DEVELOPER &amp; STUDENT'  ## your title
 location: Bologna, Italy
-testprova: Ciao Mamma
+birth: 22 August, 1997
+email: igor.ershov97@gmail.com
 
+
+# Various
+description: Mi piacciono le patate lesse
+favouritequote: I like big butts and I cannot lie - Sir Mix-a-lot
 
 ## Social Profiles
 facebook: https://www.facebook.com/PercheGuardiQuiGuardaSotto  ## your facebook account url
